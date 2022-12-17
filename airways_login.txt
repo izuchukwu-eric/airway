@@ -1,0 +1,14 @@
+Admin Page:
+link:https://airwayscourierservice.com/admin.php
+username: admin 
+password: admin
+
+Webmail:
+link : https://titan.email
+email : support@airwayscourierservice.com
+password : airwayscourierservice123
+
+Chatbox:
+link : https://smartsupp.com
+email : support@airwayscourierservice.com
+password : airwayscourierservice123
